@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Skor Bola</string>
+
+    <string-array name="club_bola">
+        <item>Chelsea</item>
+        <item>Manchaster City</item>
+        <item>Manchaster United</item>
+        <item>West Ham</item>
+        <item>Leicester</item>
+        <item>Liverpool</item>
+        <item>Everton</item>
+        <item>Fulham</item>
+        <item>New Castle</item>
+        <item>Arsenal</item>
+        <item>Tottenham</item>
+        <item>Brighton</item>
+    </string-array>
+
+    <string-array name="desription">
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+        <item>Skor Bola Untuk:</item>
+    </string-array>
+
+
+</resources>
